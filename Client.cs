@@ -5,6 +5,7 @@ namespace Tp2
         public string name;
         public CompteCourant compteCourant = new CompteCourant();
         public CompteEpargne compteEpargne = new CompteEpargne();
+        public CompteBenefFixe compteBenefFixe = new CompteBenefFixe();
       
         public Client(string name)
         {

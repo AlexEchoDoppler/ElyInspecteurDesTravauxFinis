@@ -2,7 +2,7 @@ namespace Tp2
 {
     public abstract class Compte
     {
-        public virtual int balance
+        public virtual double balance
         {
             get
             {
