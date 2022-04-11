@@ -1,0 +1,15 @@
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\bin\Debug\net6.0\Tp2.exe
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\bin\Debug\net6.0\Tp2.deps.json
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\bin\Debug\net6.0\Tp2.runtimeconfig.json
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\bin\Debug\net6.0\Tp2.dll
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\bin\Debug\net6.0\Tp2.pdb
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.csproj.AssemblyReference.cache
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.AssemblyInfoInputs.cache
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.AssemblyInfo.cs
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.csproj.CoreCompileInputs.cache
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.dll
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\refint\Tp2.dll
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.pdb
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\Tp2.genruntimeconfig.cache
+C:\Users\ABert\Desktop\Projet dotnet\Tp2\obj\Debug\net6.0\ref\Tp2.dll
